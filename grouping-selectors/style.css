@@ -1,0 +1,11 @@
+.read,.unread {
+    font-size: 28px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+.read{
+    background-color: black;
+    color: white;
+}
+.unread {
+    background-color: yellow;
+}
